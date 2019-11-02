@@ -1,3 +1,3 @@
 # gitskills
 write some new things in there
-write something by master branch
+eliminate the conflicts and write new contens
