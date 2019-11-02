@@ -1,4 +1,4 @@
 # gitskills
 write some new things in there
 A & B
-C & D
+C and D
